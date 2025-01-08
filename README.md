@@ -29,7 +29,7 @@ To run this project on your local machine, follow these steps:
 
 1. **Clone the Repository**:
    - Open your terminal and run the following command:  
-     `https://github.com/NitheeshS3/VISUALIZER-ForStringMatching.git`
+     `git clone https://github.com/NitheeshS3/VISUALIZER-ForStringMatching.git`
    
 2. **Navigate to the Project Directory**:
    - `cd VISUALIZER-ForStringMatching`
