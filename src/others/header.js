@@ -55,7 +55,7 @@ function Header() {
             <NavItem onClick={() => navigate("/quiz/info")}>Read</NavItem>
             <NavItem onClick={() => navigate("/quiz")}>Quiz</NavItem>
             <NavItem onClick={() => navigate("/home")}>Simulator</NavItem>
-            <NavItem onClick={() => window.open("https://docs.google.com/forms/d/e/1FAIpQLScUiG86jf1ArzzLIJGIGGeweWhZAmofmZ_VmxajtjhX4xtLDQ/viewform", "_blank")}>Feedback</NavItem>
+            <NavItem onClick={() => window.open("https://forms.gle/PFEDBDSUVQXicUhHA", "_blank")}>Feedback</NavItem>
           </NavItemContainer>
           
         </NavRow>
