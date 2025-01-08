@@ -1,6 +1,6 @@
 # String Matching Visualizer using Finite Automata
 
-Preview: [Visualizer Tool for string matching using finite automata](https://visualizer-for-string-matching-8rzh.vercel.app/) <3
+Preview: [Visualizer Tool for string matching using finite automata](https://visualizer-for-string-matching-xyzz.vercel.app/) <3
 
 ## Overview
 
