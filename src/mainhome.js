@@ -179,10 +179,10 @@ const Mainhome = () => {
       </svg>
       <br /><br /><br />
       <p className="pop4">Developed by:</p>
-      <p>Amulya , Ishitva Sharma , Niranjan Naik , Shambhavi Sengeri</p>
-      <p>ISE, RVCE</p>
+      <p>Nitheesh S , Bhuvan Krishna M J </p>
+      <p>CSBS, SJCE</p>
     </div></div>
   );
 };
 
-export default Mainhome;
+export default Mainhome
